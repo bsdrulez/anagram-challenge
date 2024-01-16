@@ -20,3 +20,9 @@ Sample Input and Output
 	xyyx ? 0
 	xaxbbbxx ? 1
 	bbxxxaxb ? 1
+
+=== Solution ===
+The solution of the challenge has been implemented in NumberOfCharsToBeChangedForHalfAnagram.py and can be invoked like this:
+   echo "abccab" | python3 NumberOfCharsToBeChangedForHalfAnagram.py
+or the tests can be run as:
+   python3 tests.py
